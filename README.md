@@ -1,2 +1,2 @@
 # Projeto-java
-Sistema de cadastro de contas.
+Sistema básico de cadastro de contas.
