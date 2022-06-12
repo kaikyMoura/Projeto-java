@@ -1,3 +1,3 @@
-# Projeto-java
-Projeto simples para um trabalho da faculdade.
-Sistema básico de cadastro de contas.
+# Projetos-java
+
+Repositório destinado para projetos feito por mim durante o curso de ADS
